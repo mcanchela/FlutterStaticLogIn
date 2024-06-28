@@ -1,6 +1,4 @@
-# Flutter Static Log in
-
-Flutter practice coding only.
+This is just a Flutter practice coding only.
 
 ## Getting Started
 
