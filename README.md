@@ -1,6 +1,6 @@
-# My Personalized App hehe
+# Flutter Static Log in
 
-A new Flutter project.
+This is just for practice.
 
 ## Getting Started
 
