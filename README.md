@@ -1,4 +1,4 @@
-This is just a Flutter practice coding only.
+Practice only.
 
 ## Getting Started
 
